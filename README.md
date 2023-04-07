@@ -2,7 +2,7 @@
 Loan Prediction using Machine Learning
 
 ### Overview
-The idea is to build a model that will predict the loan approval of an applicant who has applied for a loan . It is based on the user’s marital status, education, number of dependents, and employments. We can build a linear model for this project.
+The idea is to build a model that will predict the loan approval of an applicant who has applied for a loan . It is based on the user’s marital status, education, number of dependents, and employments.
 
 ### Aim:
 Is to predict whether the applicant will have loan approved or not.So,we have to predict the approval.It is a supervised classification problem. 
@@ -27,8 +27,9 @@ The following are dataset feature same in train and test set only test set not c
 12. Property_Area : Urban/ Semi Urban/ Rural
 13. Loan_Status : Loan approved (Y/N)
 
-
-
+### Immplemented Machine Learning Algorithm:
+1. Decision Tree Algorithm
+2. Logistic Regression
 
 
 
