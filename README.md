@@ -11,7 +11,7 @@ Dataset Features
 
 Dataset is taken from https://www.kaggle.com/code/rupamshil/loan-prediction-using-machine-learning/input
 
-The following are dataset feature same in train and test set only test set not contain Loan_Status we need to predict it :
+The following are dataset feature :
 
 1. Loan_ID : Unique Loan ID
 2. Gender : Male/ Female
