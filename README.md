@@ -27,7 +27,7 @@ The following are dataset feature :
 12. Property_Area : Urban/ Semi Urban/ Rural
 13. Loan_Status : Loan approved (Y/N)
 
-### Immplemented Machine Learning Algorithm:
+### Implemented Machine Learning Algorithm:
 1. Decision Tree Algorithm
 2. Logistic Regression
 
