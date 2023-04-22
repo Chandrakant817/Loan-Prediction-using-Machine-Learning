@@ -28,7 +28,9 @@ The following are dataset feature :
 13. Loan_Status : Loan approved (Y/N)
 
 ### Implemented Machine Learning Algorithm:
-1. Decision Tree Algorithm
+1. DecisionTree Classifier
+2. RandomForest Classifier
+3. Logistic Regression
 
 
 
